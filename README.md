@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm DuCk-31! 🦆
 
-<!--
-**DuCk-31/DuCk-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about coding, open source, and building cool things. Here you'll find some of my projects, experiments, and contributions to the developer community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I love working with code and exploring new technologies.
+- 🧠 Always learning something new and improving my skills.
+- 🛠️ My main tool is [Visual Studio Code](https://code.visualstudio.com/).
+- 🧩 Main languages: **C** and **C++**
+- 🤝 Open to collaboration and connecting with fellow developers.
+
+## 🛠️ Technologies & Tools
+
+- Languages: C, C++
+- Editor: VS Code
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DuCk-31&show_icons=true&theme=github_dark" alt="DuCk-31's GitHub stats" />
+</p>
+
+## 📫 How to Reach Me
+
+- GitHub: [DuCk-31](https://github.com/DuCk-31)
+- Instagram: [d.nhduck](https://www.instagram.com/d.nhduck/)
+- Facebook: [hd31141](https://www.facebook.com/hd31141/)
+
+---
+
+Thanks for visiting my profile!  
+Feel free to check out my repositories and connect with me.
