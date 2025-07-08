@@ -32,9 +32,6 @@ I'm passionate about coding, open source, and building cool things. Here you'll 
 ## 📫 How to Reach Me
 
 <p>
-  <a href="https://github.com/DuCk-31">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.instagram.com/d.nhduck/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
