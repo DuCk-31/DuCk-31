@@ -5,11 +5,15 @@ I'm passionate about coding, open source, and building cool things. Here you'll 
 
 ## 🚀 About Me
 
-🎯 First year Student at RMIT University  
-💻 Passionate about technology and software development  
-📚 Currently documenting my learning journey through various programming languages and technologies  
-🌱 Always eager to learn new technologies and improve my skills  
-🎯 Building projects to apply theoretical knowledge into practical solutions  
+- 🎯 First year student at RMIT University  
+- 💻 Passionate about technology and software development  
+- 📚 Currently documenting my learning journey through various programming languages and technologies  
+- 🌱 Always eager to learn new technologies and improve my skills  
+- 🛠️ My main tool is [Visual Studio Code](https://code.visualstudio.com/)  
+- 🧩 Main languages: **C** and **C++**  
+- 📚 I have made **12 projects in C** and **3 projects in C++** — C is my most used language!  
+- 🎯 Building projects to apply theoretical knowledge into practical solutions  
+- 🤝 Open to collaboration and connecting with fellow developers  
 
 ## 🛠️ Technologies & Tools
 
@@ -26,12 +30,25 @@ I'm passionate about coding, open source, and building cool things. Here you'll 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuCk-31&layout=compact&theme=github_dark" alt="DuCk-31's Top Languages" />
 </p>
 
-
-
 ## 📫 How to Reach Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/d.nhduck/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/hd31141/)
+<p>
+  <a href="https://github.com/DuCk-31">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/d.nhduck/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/hd31141/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:nguyenhuynhduc257@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="mailto:s4137976@rmit.edu.vn">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+</p>
 
 ---
 
