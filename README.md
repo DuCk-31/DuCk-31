@@ -9,12 +9,12 @@ I'm passionate about coding, open source, and building cool things. Here you'll 
 - 🧠 Always learning something new and improving my skills.
 - 🛠️ My main tool is [Visual Studio Code](https://code.visualstudio.com/).
 - 🧩 Main languages: **C** and **C++**
-- 📚 I have made **12 projects in C** and **3 projects in C++**
+- 📚 I have made **12 projects in C** and **3 projects in C++** — C is my most used language!
 - 🤝 Open to collaboration and connecting with fellow developers.
 
 ## 🛠️ Technologies & Tools
 
-- Languages: C, C++
+- Languages: C (main), C++
 - Editor: VS Code
 
 ## 📊 GitHub Stats
