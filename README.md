@@ -9,6 +9,7 @@ I'm passionate about coding, open source, and building cool things. Here you'll 
 - 🧠 Always learning something new and improving my skills.
 - 🛠️ My main tool is [Visual Studio Code](https://code.visualstudio.com/).
 - 🧩 Main languages: **C** and **C++**
+- 📚 I have made **12 projects in C** and **3 projects in C++**
 - 🤝 Open to collaboration and connecting with fellow developers.
 
 ## 🛠️ Technologies & Tools
@@ -25,13 +26,6 @@ I'm passionate about coding, open source, and building cool things. Here you'll 
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuCk-31&layout=compact&theme=github_dark" alt="DuCk-31's Top Languages" />
 </p>
-
-<!-- Optional: Contribution graph (static image) -->
-<!--
-<p align="center">
-  <img src="https://github-contribution-grid.vercel.app/api?username=DuCk-31&theme=github-dark" alt="DuCk-31's contribution graph" />
-</p>
--->
 
 ## 📫 How to Reach Me
 
