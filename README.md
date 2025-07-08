@@ -5,11 +5,11 @@ I'm passionate about coding, open source, and building cool things. Here you'll 
 
 ## 🚀 About Me
 
--🎯 First year Student at RMIT University
--💻 Passionate about technology and software development
--📚 Currently documenting my learning journey through various programming languages and technologies
--🌱 Always eager to learn new technologies and improve my skills
--🎯 Building projects to apply theoretical knowledge into practical solutions
+🎯 First year Student at FPT University  
+💻 Passionate about technology and software development  
+📚 Currently documenting my learning journey through various programming languages and technologies  
+🌱 Always eager to learn new technologies and improve my skills  
+🎯 Building projects to apply theoretical knowledge into practical solutions  
 
 ## 🛠️ Technologies & Tools
 
