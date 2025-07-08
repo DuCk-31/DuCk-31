@@ -27,7 +27,7 @@ I'm passionate about coding, open source, and building cool things. Here you'll 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuCk-31&layout=compact&theme=github_dark" alt="DuCk-31's Top Languages" />
 </p>
 
-## 📫 How to Reach Me
+
 
 ## 📫 How to Reach Me
 
