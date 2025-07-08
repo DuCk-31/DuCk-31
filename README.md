@@ -5,10 +5,11 @@ I'm passionate about coding, open source, and building cool things. Here you'll 
 
 ## 🚀 About Me
 
-- 💻 I love working with code and exploring new technologies.
-- 🧠 Always learning something new and improving my skills.
-- 🛠️ My main tool is [Visual Studio Code](https://code.visualstudio.com/).
-- 🤝 Open to collaboration and connecting with fellow developers.
+-🎯 First year Student at RMIT University
+-💻 Passionate about technology and software development
+-📚 Currently documenting my learning journey through various programming languages and technologies
+-🌱 Always eager to learn new technologies and improve my skills
+-🎯 Building projects to apply theoretical knowledge into practical solutions
 
 ## 🛠️ Technologies & Tools
 
