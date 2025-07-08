@@ -29,9 +29,10 @@ I'm passionate about coding, open source, and building cool things. Here you'll 
 
 ## 📫 How to Reach Me
 
-- GitHub: [DuCk-31](https://github.com/DuCk-31)
-- Instagram: [d.nhduck](https://www.instagram.com/d.nhduck/)
-- Facebook: [hd31141](https://www.facebook.com/hd31141/)
+## 📫 How to Reach Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/d.nhduck/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/hd31141/)
 
 ---
 
